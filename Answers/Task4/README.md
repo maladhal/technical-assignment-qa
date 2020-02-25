@@ -1,8 +1,8 @@
-#Example 1
+# Example 1
 
-# Acceptance Criteria
+## Acceptance Criteria
 
-###Class
+### Class
 
 getAdverts(sellerId): List<Advert>
 canRepostForFree(sellerId): boolean
